@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "version": "0.0.1",
+  "main": "app.js",
+  "dependencies": {
+    "@bone/web": "^0.2.0-alpha.0",
+    "@bone/web-plugin-panel": "^0.1.0-alpha.0",
+    "@bone/bone-web-ui": "^1.0.0",
+    "@bone/bone-web-ui-dpl": "^1.0.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "devDependencies": {
+    "@bone/bone-kit-web": "^0.1.49",
+    "antd": "^3.20.4"
+  }
+}
